@@ -9,8 +9,9 @@ public class JavaLevel1 {
 		int a = 10;
 		int b = 20;
 		int c = 30;
+		int d = 40;
 		
-		int x = a+b+c;
+		int x = a+b+c+d;
 		
 		System.out.println("Sum of x:" + x);
 		
